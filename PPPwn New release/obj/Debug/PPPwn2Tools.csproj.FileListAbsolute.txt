@@ -1,0 +1,12 @@
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\PPPwn2Tools.exe.config
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\PPPwn2Tools.exe
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\PPPwn2Tools.pdb
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\DarkUI.pdb
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn_New_release.Form1.resources
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn_New_release.Properties.Resources.resources
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.csproj.CopyComplete
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.exe
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.pdb
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.csproj.AssemblyReference.cache

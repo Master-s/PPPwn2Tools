@@ -1,0 +1,13 @@
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\PPPwn New release.exe.config
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\PPPwn New release.exe
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\PPPwn New release.pdb
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn New release.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn_New_release.Form1.resources
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn_New_release.Properties.Resources.resources
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn New release.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn New release.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn New release.exe
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn New release.pdb
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\DarkUI.dll
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\bin\Debug\DarkUI.pdb
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn New release.csproj.CopyComplete
