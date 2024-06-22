@@ -6,11 +6,11 @@ New version of pppwn. The problem of ps4 models that do not work has been fixed.
 PS4 FW
 900, 903 960, 1001, 1100 
 
-GoldHEN_v2.4b17.3
-PS4Hen900-PPPwn-1.0158
-PS4Hen960-PPPwn-1.0132
-PS4Hen1001-PPPwn-1.0152
-PS4Hen1100-PPPwn-1.0148
+-GoldHEN_v2.4b17.3
+-PS4Hen900-PPPwn-1.0158
+-PS4Hen960-PPPwn-1.0132
+-PS4Hen1001-PPPwn-1.0152
+-PS4Hen1100-PPPwn-1.0148
 ---
 Theme for the black color PPPwn2Toolstool
 .
