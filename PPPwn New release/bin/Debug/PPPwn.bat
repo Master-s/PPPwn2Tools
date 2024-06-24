@@ -1,2 +1,2 @@
-python pppwn.py --interface="Ethernet" --fw=900
+python pppwn.py --interface="Ethernet" --fw=1100
 pause

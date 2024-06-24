@@ -117,6 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="darkTextBox1.Text" xml:space="preserve">
+    <value>PS4 FW 
+------------------------------
+900, 960, 1001, 1100
+
+GoldHEN_v2.4b17.3
+------------------------------
+900, 903 960, 1001, 1050,1100
+
+PS4Hen900-PPPwn-1.0263
+PS4Hen903-PPPwn-1.0234
+PS4Hen960-PPPwn-1.0257
+PS4Hen1001-PPPwn-1.0261
+ps4Hen1050-PPPwn-1.0232
+PS4Hen1100-PPPwn-1.0240</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

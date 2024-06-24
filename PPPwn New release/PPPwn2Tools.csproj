@@ -60,6 +60,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="MsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MsgBox.Designer.cs">
+      <DependentUpon>MsgBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="NetworkInfo.cs" />
     <Compile Include="NetworkManager.cs" />
     <Compile Include="Program.cs" />
@@ -69,6 +75,9 @@
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MsgBox.resx">
+      <DependentUpon>MsgBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -95,6 +104,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Eth00.ico" />
+    <None Include="Resources\folderDelete.png" />
+    <None Include="Resources\GH.png" />
     <None Include="Resources\Eth03.png" />
     <None Include="Resources\disable00.png" />
     <None Include="Resources\enable0.png" />

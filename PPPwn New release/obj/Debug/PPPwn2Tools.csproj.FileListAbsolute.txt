@@ -10,3 +10,4 @@ C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn
 C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.exe
 C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.pdb
 C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn2Tools.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\PPPwn New release\PPPwn New release\obj\Debug\PPPwn_New_release.MsgBox.resources
